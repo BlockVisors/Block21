@@ -327,6 +327,7 @@ table {
     opacity: 0;
     transform: translateY(20px);
     transition: all 1s;
+    border-radius: 5;
   }
   .grid-item.has-animated .thumb {
     opacity: 1;
